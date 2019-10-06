@@ -2,10 +2,8 @@ import numpy as np
 import pandas as pd
 import pandas_datareader.data as pdr
 import fix_yahoo_finance as yf
-#import arch
 import matplotlib.pyplot as plt
-#from statsmodels.graphics.tsaplots import plot_acf
-#yf.pdr_override()
+
 
 
 class stock_vol:
